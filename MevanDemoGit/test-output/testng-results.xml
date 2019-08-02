@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="59841" started-at="2019-08-02T04:18:30Z" finished-at="2019-08-02T04:19:30Z">
+  <suite name="Suite" duration-ms="47323" started-at="2019-08-02T04:45:18Z" finished-at="2019-08-02T04:46:05Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="59841" started-at="2019-08-02T04:18:30Z" finished-at="2019-08-02T04:19:30Z">
+    <test name="Test" duration-ms="47323" started-at="2019-08-02T04:45:18Z" finished-at="2019-08-02T04:46:05Z">
       <class name="com.qa.mevan.MevanDemoGit.GoogleHeadlines">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.mevan.MevanDemoGit.GoogleHeadlines@2a5ca609]" name="setup" is-config="true" duration-ms="49909" started-at="2019-08-02T04:18:30Z" finished-at="2019-08-02T04:19:20Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.mevan.MevanDemoGit.GoogleHeadlines@6f7fd0e6]" name="setup" is-config="true" duration-ms="38498" started-at="2019-08-02T04:45:18Z" finished-at="2019-08-02T04:45:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="f()[pri:0, instance:com.qa.mevan.MevanDemoGit.GoogleHeadlines@2a5ca609]" name="f" duration-ms="1662" started-at="2019-08-02T04:19:20Z" finished-at="2019-08-02T04:19:22Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.qa.mevan.MevanDemoGit.GoogleHeadlines@6f7fd0e6]" name="f" duration-ms="1300" started-at="2019-08-02T04:45:56Z" finished-at="2019-08-02T04:45:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="head()[pri:0, instance:com.qa.mevan.MevanDemoGit.GoogleHeadlines@2a5ca609]" name="head" is-config="true" duration-ms="8104" started-at="2019-08-02T04:19:22Z" finished-at="2019-08-02T04:19:30Z">
+        <test-method status="PASS" signature="head()[pri:0, instance:com.qa.mevan.MevanDemoGit.GoogleHeadlines@6f7fd0e6]" name="head" is-config="true" duration-ms="7429" started-at="2019-08-02T04:45:58Z" finished-at="2019-08-02T04:46:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- head -->
       </class> <!-- com.qa.mevan.MevanDemoGit.GoogleHeadlines -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
